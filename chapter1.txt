@@ -1,1 +1,2 @@
-the quick brown fox is quite happy
+the quick brown fox is quite happy 
+new line
